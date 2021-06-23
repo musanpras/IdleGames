@@ -1,0 +1,184 @@
+<entries>
+<entry name="NEXT_PRODUCT">Siguiente Producto</entry>
+<entry name="UPGRADE_TEXT">MEJORAR</entry>
+<entry name="QUIT_DESCRIPTION">Estás a punto de salir del juego. ¿Estás seguro?</entry>
+<entry name="VIP_CLIENT_PROFITS_TITLE">GANANCIAS:</entry>
+<entry name="UI_EPIC_RESEARCHES_SUBTITLE">Las mejoras épicas son permanentes</entry>
+<entry name="UI_WELCOMBEACK_MENU_TITLE">¡Bienvenido!</entry>
+<entry name="UI_SETTINGS_MENU_PROGRESS_LABEL">Guardar progreso:</entry>
+<entry name="UI_QUALITY">Calidad</entry>
+<entry name="UI_INFO_PURCHASE_QUEST">¿Problemas con las compras?</entry>
+<entry name="UI_SETTINGS_MENU_AUDIO_LABEL">Controles de audio:</entry>
+<entry name="UI_RESTORE_PURCHASES_SUCCESS_DESC">Las compras se restaurarán en unos momentos.</entry>
+<entry name="UI_SALE_VALUE">VALOR {0}</entry>
+<entry name="UI_INFO_PRESTIGE_QUEST">¡Mi supermercado se ha reiniciado! ¿Es un bug?</entry>
+<entry name="VIP_CLIENT">CLIENTE VIP</entry>
+<entry name="UI_WELCOMEBACK_MENU_PREMIUM_AMOUNT">{0} Gemas</entry>
+<entry name="STAT_WORST_PRODUCT">Menos rentable</entry>
+<entry name="UI_INFO_INCOME_SHORT">Las ganancias/min son una estimación
+aproximada de lo que genera tu
+supermercado de forma global.</entry>
+<entry name="UI_FORCE_UPDATE_DESCRIPTION">Ey, hay disponible una nueva versión con mejoras y corrección de errores en la tienda.</entry>
+<entry name="UI_SETTINGS_MENU_MUSIC_LABEL">Música</entry>
+<entry name="UI_SETTINGS_MENU_PROBLEM_LABEL">¿Has tenido algún problema?</entry>
+<entry name="UI_STATS_DESCRIPTION">Aquí puedes ver la situación global de tu supermercado, a continuación se muestran los valores medios.</entry>
+<entry name="UI_SETTINGS_MENU_RESTORE_BUTTON">RESTAURAR</entry>
+<entry name="PARKING_LEVEL_UP_DESC">Mejora tu aparcamiento para ampliarlo con 6 plazas extra</entry>
+<entry name="STAT_PROFITS">Ganancias:</entry>
+<entry name="HIRE_DESCRIPTION">Aumenta los empleados de este comercio en +1.</entry>
+<entry name="UI_SETTINGS_MENU_TITLE">AJUSTES</entry>
+<entry name="BUS_BOOSTER_DESCRIPTION">Ve un vídeo para recibir un &lt;b&gt;&lt;color=#0bc54e&gt;autobús con clientes&lt;/color&gt;&lt;/b&gt; extra de forma inmediata.</entry>
+<entry name="UI_SETTINGS_MENU_SUPPORT_BUTTON">SOPORTE</entry>
+<entry name="UI_MULTIPLY_REWARD_DESC">Además ve &lt;color=#5742FF&gt;6 anuncios&lt;/color&gt; y recibe este premio.</entry>
+<entry name="MOST_POPULAR">Más popular</entry>
+<entry name="UI_SETTINGS_SUCCESS_LINKED_MESSAGE">Cuenta vinculada con exito</entry>
+<entry name="UI_SETTINGS_ALREADY_LINKED_MESSAGE">Esta cuenta ya está enlazada</entry>
+<entry name="CARS_ENTRY">Entrada de coches</entry>
+<entry name="UI_MAIN_MENU_QUEST_DIALOG_COMPLETED">Misión completa</entry>
+<entry name="UI_WELCOMEBACK_MENU_MULTIPLIED_LABEL">INGRESOS MULTIPLICADOS {0}</entry>
+<entry name="UI_MULTIPLY_EARNING_FREE_GEMS">12h gemas gratis</entry>
+<entry name="STAT_MEAN_QUEUE_WAIT_TIME">Espera media en cajeros</entry>
+<entry name="PROCESSING">Procesado</entry>
+<entry name="SHOPS_BOOSTER_TITLE">¡Compras sin esperas!</entry>
+<entry name="UI_INFO_MONEY_DESC">Eso es porque la cantidad necesaria para la mejora es otra,
+debes tener en cuenta que:</entry>
+<entry name="EMPLOYEES">Empleados</entry>
+<entry name="UI_LOGOUT_ANDROID_TITLE">Cerrar sesión</entry>
+<entry name="UI_FORCE_UPDATE_BUTTON">Actualizar</entry>
+<entry name="CHECKOUT_HIRE_DESCRIPTION">Añade un nuevo cajero al supermercado.</entry>
+<entry name="UI_WELCOMEBACK_MENU_MAX_TIME">Ingresos offline {0}h max</entry>
+<entry name="UI_MULTIPLY_EARNINGS_DESC">Realiza una campaña publicitaria para aumentar los &lt;size=40&gt;&lt;color=#4CC056&gt;ingresos x{0}&lt;/color&gt;&lt;/size&gt; durante &lt;size=35&gt;&lt;color=#5742FF&gt;{1}&lt;/color&gt;&lt;/size&gt;.</entry>
+<entry name="SHOP_TAB_BOOSTERS">Potenciadores</entry>
+<entry name="UI_BUILDINGS">Construcciones</entry>
+<entry name="UI_IMPROVEMENTS_DESCRIPTION">El director general se encarga de las mejoras del supermercado. Puede aumentar los beneficios, atraer a más clientes o mejorar las instalaciones.</entry>
+<entry name="UI_WELCOMEBACK_MENU_OUT_LABEL">Mientras estabas fuera has ganado...</entry>
+<entry name="CANCEL">Cancelar</entry>
+<entry name="UI_CARD_TYPE_2">PRO</entry>
+<entry name="HIRE_TITLE">Contratar Empleado</entry>
+<entry name="EXTRA">Extra</entry>
+<entry name="STAT_QUEUE_LENGTH">Cola en Cajero</entry>
+<entry name="UI_REWARD">Recompensa:</entry>
+<entry name="NO">No</entry>
+<entry name="UI_IMPROVEMENTS">Mejoras</entry>
+<entry name="ERROR_TITLE">¡Aviso!</entry>
+<entry name="SHOP_TAB_GEMS">Gemas</entry>
+<entry name="UI_BUILDINGS_DESCRIPTION">Aquí puedes construir y expandir tus puestos de venta y comercios para aumentar tus beneficios.</entry>
+<entry name="UI_WELCOMEBACK_MENU_GET_MANAGER">Conseguir manager</entry>
+<entry name="CHECKOUT_DESCRIPTION">Los cajeros atienden a los clientes del supermercado, cuánto más rápidos sean más dinero ganarás.</entry>
+<entry name="CHECKOUT_HIRE">CONTRATAR</entry>
+<entry name="UI_INFO_INCOME_DESC">El valor que se muestra de ganancias/min es una estimación
+aproximada, que en periodos muy cortos no coincide debido
+a los diferentes tiempos de cada comercio, pero en periodos
+largos de varias horas las ganancias serán acordes a la
+estimación.</entry>
+<entry name="MANAGER_PURCHASED">¡Contratado!</entry>
+<entry name="VIP_WATCH">Ver video</entry>
+<entry name="UI_WELCOMEBACK_MENU_INCOMING">Ingresos</entry>
+<entry name="UI_WELCOMEBACK_MENU_WITH_MANAGER">Con Manager</entry>
+<entry name="REVIEW_TITLE">Valorar juego</entry>
+<entry name="UI_REMEMBER_DESCRIPTION">Ten en cuenta:</entry>
+<entry name="VIP_CLIENT_ESTIMATED">Estimado</entry>
+<entry name="QUIT_TITLE">Salir del juego</entry>
+<entry name="PARKING_LEVEL_UP_TITLE">Mejorar Parking</entry>
+<entry name="STAT_CLIENTS_CAPACITY">Capacidad de clientes</entry>
+<entry name="MANAGER_OFF">Director: Desactivado</entry>
+<entry name="UI_EPIC_RESEARCHES_TITLE">Mejoras épicas</entry>
+<entry name="STAT_VALUE">Valor:</entry>
+<entry name="BONUS">Bonus</entry>
+<entry name="UI_WELCOMEBACK_MENU_GET_MONEY_OFFLINE">Consigue dinero 10h gratis!</entry>
+<entry name="UI_CARD_TYPE_0">AZUL</entry>
+<entry name="VIP_CLIENT_DESCRIPTION">Ve un video para que este cliente VIP realice una compra increíble.</entry>
+<entry name="LEVEL">Nivel</entry>
+<entry name="BUILD">Construir</entry>
+<entry name="UI_TITLE_FAQ">FAQ</entry>
+<entry name="UI_CARD_TITLE_0">Tarjeta azul excelente</entry>
+<entry name="UI_CARD_TITLE_1">Tarjeta oro excelente</entry>
+<entry name="UI_CARD_TITLE_2">Tarjeta pro excelente</entry>
+<entry name="UI_QUESTS">Misiones</entry>
+<entry name="REVIEW_DESCRIPTION">¡Ey! Parece que tu supermercado va viento en popa, ¿Quieres dejarnos una valoración?</entry>
+<entry name="UI_SHOP">Tienda</entry>
+<entry name="CHECKOUT_UPGRADE_DESCRIPTION">Reduce el tiempo necesario para atender a un cliente.</entry>
+<entry name="UI_CONNECTION_ERROR">Error de red. Por favor comprueba tu conexión a Internet.</entry>
+<entry name="UI_LABEL_POPUP_TITLE">¡Atención!</entry>
+<entry name="WAITING_SERVER_TITLE">Esperando respuesta del servidor</entry>
+<entry name="BUS_BOOSTER_TITLE">¡Clientes extra!</entry>
+<entry name="STAT_CLIENTS_BUYING">Clientes comprando</entry>
+<entry name="BUS_BOOSTER_BONUS_DESCRIPTION">+{0} clientes extra</entry>
+<entry name="UI_MULTIPLY_INCOME">Ingresos</entry>
+<entry name="CHECKOUTS_BOOSTER_TITLE">¡Cajeros sin esperas!</entry>
+<entry name="UI_SALE_EXCLUSIVE_CARD">Tarjeta exclusiva</entry>
+<entry name="CHECKOUT_UPGRADE">MEJORAR CAJERO</entry>
+<entry name="UI_WELCOMEBACK_MENU_GEM">Recibe x3</entry>
+<entry name="UI_MULTIPLY_MAX_TIME">Tiempo máximo acumulable &lt;size=30&gt;&lt;color=#4CC056&gt;{0}&lt;/color&gt;</entry>
+<entry name="UI_FREE">Gratis</entry>
+<entry name="UI_INFO_INCOME_QUEST">Las ganancias/min no parecen funcionar bien</entry>
+<entry name="UI_REMEMBER">Recuerda</entry>
+<entry name="TOTAL_PRODUCT_VALUE">Valor Total del Producto</entry>
+<entry name="UI_WELCOMEBACK_MENU_VIDEO_WATCH">Recibe x2</entry>
+<entry name="UI_CARD_DESC">Esta tarjeta te ofrece:</entry>
+<entry name="UI_EXPIRES_IN">Expira en: {0}</entry>
+<entry name="UI_MULTIPLY_EARNING_COMEBACK">Vuelve en {0}</entry>
+<entry name="UI_SALE_TITLE_1">Oferta de tarjeta oro</entry>
+<entry name="UI_SALE_TITLE_0">Oferta de tarjeta azul</entry>
+<entry name="UI_SETTINGS_MENU_SOCIAL_IOS_DESC">Inicia sesión en Game Center para guardar tu progreso y tus compras.</entry>
+<entry name="MAX">MÁX</entry>
+<entry name="UI_CLAIM">RECOGER</entry>
+<entry name="SHOPS_BOOSTER_DESCRIPTION">Ve un vídeo para que en todos &lt;b&gt;&lt;color=#0bc54e&gt;los comercios&lt;/color&gt;&lt;/b&gt; atiendan a los clientes de forma instantánea.</entry>
+<entry name="STAT_BEST_PRODUCT">¡Mejor comercio!</entry>
+<entry name="UI_STAR">Estrellas</entry>
+<entry name="UI_CARD_TYPE_1">ORO</entry>
+<entry name="GENERAL_MANAGER">Director General</entry>
+<entry name="UI_MAX_REACHED">Max</entry>
+<entry name="SHOP_MAX_LEVEL">MAX</entry>
+<entry name="UI_STATS">Estadísticas</entry>
+<entry name="UI_STARS">Estrellas</entry>
+<entry name="UI_SETTINGS_MENU_SOUND_LABEL">Sonido</entry>
+<entry name="WAITING_SERVER_DESCRIPTION">Esta operación requiere comunicación con nuestro servidor. Por favor, espera mientras procesamos tu petición.</entry>
+<entry name="PARKING_SPACES">Plazas de aparcamiento</entry>
+<entry name="CHECKOUTS_BOOSTER_BONUS_DESCRIPTION">{0} sin esperas</entry>
+<entry name="MANAGER_PURCHASE">Contratar</entry>
+<entry name="CHECKOUT_NUMBER">Nº DE CAJEROS &lt;color=#65D66E&gt;{0}/{1}&lt;/color&gt;</entry>
+<entry name="BEST_OFFER">Mejor oferta</entry>
+<entry name="UI_VIDEO">Video</entry>
+<entry name="UI_MAIN_MENU_QUEST_DIALOG_IN_PROGRESS">Nueva misión</entry>
+<entry name="UI_INFO_PURCHASE_DESC">Contacta con nuestro equipo de soporte. No olvides adjuntar el recibo de compra.</entry>
+<entry name="UI_EPIC_IMPROVEMENT">Mejora épica</entry>
+<entry name="CHECKOUTS_BOOSTER_DESCRIPTION">Ve un vídeo para que todos &lt;b&gt;&lt;color=#0bc54e&gt;tus cajeros&lt;/color&gt;&lt;/b&gt; cobren de forma instantánea.</entry>
+<entry name="CHANGE_PRODUCT">Cambiar producto</entry>
+<entry name="UI_LOADING">Cargando...</entry>
+<entry name="BASE_PRICE">Precio Base</entry>
+<entry name="UI_SALE_TITLE_2">Oferta de tarjeta pro</entry>
+<entry name="CHANGE_CITY">Cambiar Ciudad</entry>
+<entry name="VIP_CANCEL">No, gracias</entry>
+<entry name="UI_INFO_PRESTIGE_DESC">Tranquilo, todo es normal, y positivo. Esto sucede cuando decides
+abrir un nuevo supermercado en otra ciudad, lo cual implica empezar
+a hacerlo todo de nuevo, pero obteniendo unos beneficios mucho
+mayores, consiguiendo así llegar más lejos en el juego.</entry>
+<entry name="STAT_CLIENT_CAPACITY">Capacidad de clientes:</entry>
+<entry name="UI_SETTINGS_MENU_RESTORE_LABEL">Restaurar compras</entry>
+<entry name="UI_WELCOMEBACK_MENU_NO_MANAGER">No manager</entry>
+<entry name="CLIENTS_SERVED">CLIENTES SERVIDOS</entry>
+<entry name="UI_FORCE_UPDATE_TITLE">¡Nueva versión!</entry>
+<entry name="STAT_REVENUE_BY_CLIENT">Beneficio por cliente</entry>
+<entry name="UI_AD_CAMPAIGN">Campaña publicitaria</entry>
+<entry name="UI_MANAGEMENT">Administración</entry>
+<entry name="OCCUPACY_RATE">Porcentaje de uso</entry>
+<entry name="CHECKOUT_TITLE">CAJEROS</entry>
+<entry name="MANAGER_ON">Director: Activado</entry>
+<entry name="YES">Sí</entry>
+<entry name="UI_LOGOUT_IOS_DESCRIPTION">¿Quieres cerrar la sesión de Game Center?</entry>
+<entry name="PERMANENT_UPGRADE">Esta mejora es permanente</entry>
+<entry name="SHOPS_BOOSTER_BONUS_DESCRIPTION">{0} sin esperas</entry>
+<entry name="ACCEPT">Aceptar</entry>
+<entry name="ERROR_DESCRIPTION">Se produjo un error mientras procesábamos esta operación, prueba de nuevo más tarde. Si el error persiste, ponte en contacto con nosotros en &lt;color=#5741FE&gt;support@codigames.com&lt;/color&gt;</entry>
+<entry name="UI_LOGOUT_IOS_TITLE">Cerrar sesión</entry>
+<entry name="PREMIUM_DESCRIPTION">Con el director general tu supermercado podrá seguir funcionando durante mucho más tiempo mientras no estás jugando.</entry>
+<entry name="CHECKOUT_HIRE_NOT_MET">Necesitas tener construido primero: {0}</entry>
+<entry name="UI_LOGOUT_ANDROID_DESCRIPTION">¿Quieres cerrar la sesión de Google Play?</entry>
+<entry name="UI_INFO_MONEY_QUEST">Tengo el dinero suficiente para hacer una mejora pero el 
+botón aparece en gris.</entry>
+<entry name="STAT_MEAN_QUEUE_LENGTH">Cola media en cajeros</entry>
+<entry name="STAT_PARKING_USAGE">Uso del parking</entry>
+<entry name="UI_SETTINGS_MENU_SOCIAL_ANDROID_DESC">Inicia sesión en Google Play para guardar tu progreso y tus compras.</entry>
+<entry name="UI_SHOP_FREE">Gratis</entry>
+</entries>

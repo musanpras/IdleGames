@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 67224266d873c4d6499561c734dc68e6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: body_CheerGirl
+    100004: body_DJ
+    100006: body_Doctor
+    100008: body_FoodDelivery
+    100010: body_GymInstructor
+    100012: body_HoodieCap
+    100014: body_Nurse
+    100016: body_RedDress
+    100018: body_Thief
+    100020: body_Waiter
+    100022: Bone
+    100024: //RootNode
+    100026: body_CheerLeader
+    400000: Armature
+    400002: body_CheerGirl
+    400004: body_DJ
+    400006: body_Doctor
+    400008: body_FoodDelivery
+    400010: body_GymInstructor
+    400012: body_HoodieCap
+    400014: body_Nurse
+    400016: body_RedDress
+    400018: body_Thief
+    400020: body_Waiter
+    400022: Bone
+    400024: //RootNode
+    400026: body_CheerLeader
+    2100000: skin
+    2100002: body_CheerGirl
+    2100004: body_Nurse
+    2100006: body_Waiter
+    2100008: bodt_RedDress
+    2100010: body_doctor
+    2100012: HoodieCap
+    2100014: body_FoodDelivery
+    2100016: body_DJ
+    2100018: body_gym-instructor
+    2100020: thief
+    4300000: body_CheerGirl
+    4300002: body_Nurse
+    4300004: body_Waiter
+    4300006: body_RedDress
+    4300008: body_Doctor
+    4300010: body_HoodieCap
+    4300012: body_FoodDelivery
+    4300014: body_DJ
+    4300016: body_GymInstructor
+    4300018: body_Thief
+    4300020: body_CheerLeader
+    7400000: fall backward
+    7400002: fall forward
+    7400004: fall to the left
+    7400006: fall to the right
+    7400008: idle
+    7400010: jump01_short
+    7400012: jump02_middle
+    7400014: jump03_long
+    7400016: jump05_combination
+    7400018: walk
+    7400020: run
+    7400022: jump04_spin
+    7400024: default
+    7400026: yes
+    7400028: no
+    9500000: //RootNode
+    13700000: body_CheerGirl
+    13700002: body_DJ
+    13700004: body_Doctor
+    13700006: body_FoodDelivery
+    13700008: body_GymInstructor
+    13700010: body_HoodieCap
+    13700012: body_Nurse
+    13700014: body_RedDress
+    13700016: body_Thief
+    13700018: body_Waiter
+    13700020: body_CheerLeader
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HoodieCap
+    second: {fileID: 2100000, guid: de73ca16265e944e8bb8dd1de609cbb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bodt_RedDress
+    second: {fileID: 2100000, guid: 774ce2d7aee494528980077e8e22b343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_CheerGirl
+    second: {fileID: 2100000, guid: aae48555ae8dc4a06bfc38c6502a431e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_DJ
+    second: {fileID: 2100000, guid: eabbb085e6565429a87ed0c501d4afda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_FoodDelivery
+    second: {fileID: 2100000, guid: 19f853f9ac9404cb1a4ab42902b19437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_Nurse
+    second: {fileID: 2100000, guid: 8dba92f31f33146d5bc5a037128c4231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_Waiter
+    second: {fileID: 2100000, guid: d568be3d2e6cb436d955e0f0ed071b1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_doctor
+    second: {fileID: 2100000, guid: 3deb399eba70a4fff80e02a3daed660c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_gym-instructor
+    second: {fileID: 2100000, guid: 996ef1533dff84eaaab65486d0aef265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skin
+    second: {fileID: 2100000, guid: 0127f674bab8144b294f4762743091a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thief
+    second: {fileID: 2100000, guid: 0031d703677d34f0bbc30cb4e6fe3e9f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

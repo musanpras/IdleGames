@@ -1,0 +1,37 @@
+<entries>
+<entry name="BU_DIFFICULTY_HARD">HARD</entry>
+<entry name="BU_MAPMENU_TITLE">HERO&apos;S DESTINY</entry>
+<entry name="BU_CRAFT_EVOLVE_BUTTON">EVOLVE</entry>
+<entry name="BU_MAPMENU_SEARCH">TECHNOLOGY SEARCH</entry>
+<entry name="BU_LIGHT_PORTRAIT_LEVEL">LEVEL {0} / {1}</entry>
+<entry name="BU_CRAFT_CRAFT_TITLE">CRAFT {0}</entry>
+<entry name="BU_BUTTON_FUNCTION_MAP">MAP</entry>
+<entry name="BU_CHAPTERMENU_TITLE">HERO&apos;S DESTINY</entry>
+<entry name="BU_BUTTON_FUNCTION_SALE">SALE</entry>
+<entry name="BU_BUTTON_FUNCTION_INBOX">Inbox</entry>
+<entry name="BU_BUTTON_FUNCTION_HEROES">HEROES</entry>
+<entry name="BU_BUTTON_FUNCTION_PLAY">PLAY</entry>
+<entry name="BU_CHAPTERMENU_LEVEL">LEVEL</entry>
+<entry name="BU_CHAPTERMENU_ENEMIES">POSSIBLE ENEMIES</entry>
+<entry name="BU_RESOURCE_ENERGY">ENERGY</entry>
+<entry name="BU_BUTTON_FUNCTION_MISSIONS">Missions</entry>
+<entry name="BU_ARENAMENU_HISTORY">HISTORY</entry>
+<entry name="BU_BUTTON_FUNCTION_BUILD">BUILD</entry>
+<entry name="BU_ARENAMENU_RANKINGS">RANKS</entry>
+<entry name="BU_DIFFICULTY_EASY">EASY</entry>
+<entry name="BU_CHAPTERMENU_REWARDS">REWARDS</entry>
+<entry name="BU_CRAFT_IMPROVE_TITLE">IMPROVE {0}</entry>
+<entry name="BU_ARENAMENU_MATCHES">MATCHES</entry>
+<entry name="BU_MAPMENU_CAMPAING">CAMPAING MODE</entry>
+<entry name="BU_DIFFICULTY_NORMAL">NORMAL</entry>
+<entry name="BU_CHARACTERS_TITLE">CHARACTERS</entry>
+<entry name="BU_BUTTON_FUNCTION_NONE">FUNCTION NONE</entry>
+<entry name="BU_ARENAMENU_SEASON">SEASON</entry>
+<entry name="BU_MAPMENU_EVENTS">WORLD EVENTS</entry>
+<entry name="BU_ONECHAR_MENU_TITLE_STATS">STATS</entry>
+<entry name="BU_SKILL_LEVEL">LV {0}</entry>
+<entry name="BU_GET_MORE_BUTTON">Get More</entry>
+<entry name="BU_BUTTON_FUNCTION_SHOP">SHOP</entry>
+<entry name="BU_ONECHAR_MENU_TITLE_SKILLS">SKILLS</entry>
+<entry name="BU_MAPMENU_CHAPTER">CHAPTER</entry>
+</entries>

@@ -1,0 +1,101 @@
+<entries>
+<entry name="SLIME_ATTACK_DESCRIPTION">與ATK * 3抓斗</entry>
+<entry name="GOLEM_DEF_HIT"></entry>
+<entry name="SLIME_DESTINY_DESCRIPTION">ATK * 1.5與攻擊所有敵人，減少了酒吧的25％的機會輪流在各</entry>
+<entry name="BEHOLDER_ATTACK_ORDER"></entry>
+<entry name="BEHOLDER_NIGHT_VISION"></entry>
+<entry name="SLIME_AGILITY_DESCRIPTION">使你的團隊成員的速度</entry>
+<entry name="VALKYRIA_SWORD_ATTACK"></entry>
+<entry name="VALKYRIA_INSURRECTION"></entry>
+<entry name="BEHOLDER_QUIETUS_DESCRIPTION">攻擊與攻擊力* 4</entry>
+<entry name="BIRD_WINGS_HIT_DESCRIPTION">ATK攻擊* 3 25％的機率治愈你的MAX HP的25％</entry>
+<entry name="VALKYRIA_HEAL"></entry>
+<entry name="GOLEM_DEF_HIT_DESCRIPTION">傷害DEF * 3，如果你殺死敵人發起對隨機敵人攻擊傀儡</entry>
+<entry name="BIRD_CLEAN"></entry>
+<entry name="GOLEM_EXECUTE"></entry>
+<entry name="VALKYRIA_COMMANDER_DESCRIPTION">提高攻擊你的盟友20％，持續2回合</entry>
+<entry name="BIRD_TORNADO"></entry>
+<entry name="BIRD_ATTACK_FAST_DESCRIPTION">ATK攻擊* 2.5</entry>
+<entry name="VALKYRIA_ODIN_SWORD_DESCRIPTION">*如果敵人死推出3攻擊力攻擊“傲慢valkyria”</entry>
+<entry name="BIRD_CLEAN_ALL_DESCRIPTION">Debuffos刪除所有盟友</entry>
+<entry name="VALKYRIA_INTIMIDATION_DESCRIPTION">100％減少了所有敵人的電阻為2匝</entry>
+<entry name="BIRD_REBORN"></entry>
+<entry name="BEHOLDER_HIT_DESCRIPTION">攻擊與攻擊力* 3</entry>
+<entry name="GOLEM_CHARGE"></entry>
+<entry name="BEHOLDER_LOW_HIT_DESCRIPTION">攻擊用ATK * 2，20施加連續的損傷為1匝的％</entry>
+<entry name="BIRD_MISLEAD_DESCRIPTION">桿的減去50％所選擇的敵人移位</entry>
+<entry name="BIRD_WINGS_ATTACK"></entry>
+<entry name="SLIME_CLEAN_DESCRIPTION">1消除了烯丙基的不利影響</entry>
+<entry name="BIRD_HEAL"></entry>
+<entry name="GOLEM_NO_MERCY"></entry>
+<entry name="VALKYRIA_ODIN_SWORD"></entry>
+<entry name="BIRD_AUTO_CLEAN_DESCRIPTION">每回合消除了一個debuff少HP盟友，如果盟友少馬力的debuff什麼都不做</entry>
+<entry name="BIRD_CLEAN_DESCRIPTION">1消除同盟減益</entry>
+<entry name="BIRD_WINGS_HIT"></entry>
+<entry name="BEHOLDER_AGI_UP_DESCRIPTION">增加了團隊成員的AGI為2班，20％的機率也增加了攻擊力</entry>
+<entry name="BEHOLDER_HIT"></entry>
+<entry name="SLIME_INTRUSSION_DESCRIPTION">與ATK * 2抓斗，減少防禦25％</entry>
+<entry name="SLIME_CLEAN"></entry>
+<entry name="BIRD_WINGS_ATTACK_DESCRIPTION">ATK攻擊*試圖減少防禦，持續2回合的3.5 25％的機率</entry>
+<entry name="VALKYRIA_PROUD_DESCRIPTION">恢復你的最大HP的30％</entry>
+<entry name="GOLEM_ATTACK"></entry>
+<entry name="BIRD_MISLEAD"></entry>
+<entry name="GOLEM_CHARGE_DESCRIPTION">每次攻擊獲得了10％的移動桿</entry>
+<entry name="BEHOLDER_AGI_UP"></entry>
+<entry name="BEHOLDER_QUIETUS"></entry>
+<entry name="VALKYRIA_NORDIC_VENGEANCE_DESCRIPTION">+ 30％攻擊力面對神的敵人所有的盟友</entry>
+<entry name="BEHOLDER_NIGHT_VISION_DESCRIPTION">攻擊所有敵人攻擊力* 1，25％的機會，以減少在2班防禦</entry>
+<entry name="GOLEM_SLOW_DOWN_DESCRIPTION">ATK損壞* 2，50％的復位移動桿</entry>
+<entry name="VALKYRIA_INMORTAL"></entry>
+<entry name="SLIME_INTRUSSION"></entry>
+<entry name="VALKYRIA_CLEAN"></entry>
+<entry name="SLIME_STICKY_ATTACK_DESCRIPTION">與ATK * 2.5，10％的概率的攻擊以減緩目標2</entry>
+<entry name="GOLEM_HP_HIT_DESCRIPTION">攻擊力電流* 0.15 HP，10％擊暈敵人，持續2回合</entry>
+<entry name="VALKYRIA_NORDIC_VENGEANCE"></entry>
+<entry name="GOLEM_SLOW_DOWN"></entry>
+<entry name="SLIME_STICKY_ATTACK"></entry>
+<entry name="BEHOLDER_HP_HIT_DESCRIPTION">HP_MAX * 0.2安打，你失去了你的最大HP的50％</entry>
+<entry name="VALKYRIA_VALHALLA_FIRE_DESCRIPTION">* 2攻攻擊力，10％的機率降低目標的防禦</entry>
+<entry name="BIRD_INMORTAL_DESCRIPTION">當你正在死去，其HP的100％復甦</entry>
+<entry name="SLIME_ATTACK"></entry>
+<entry name="GOLEM_HP_HIT"></entry>
+<entry name="BIRD_AUTO_CLEAN"></entry>
+<entry name="BIRD_HEAL_DESCRIPTION">癒合的盟友一個與HP的20％</entry>
+<entry name="VALKYRIA_CLEAN_DESCRIPTION">隨機刪除每個合作夥伴和自身的debuff</entry>
+<entry name="GOLEM_ATTACK_DESCRIPTION">ATK傷害* 2.5，10％的概率降低防禦，持續2回合</entry>
+<entry name="BIRD_REBORN_DESCRIPTION">它復活誰剛剛與它最大HP的30％，死亡的盟友</entry>
+<entry name="SLIME_DESTINY"></entry>
+<entry name="BEHOLDER_REVIVE_DESCRIPTION">當你與它的HP最大值的20％，死亡復甦</entry>
+<entry name="VALKYRIA_PROUD"></entry>
+<entry name="SLIME_DARK_ATTACK"></entry>
+<entry name="SLIME_ELASTIC_ATTACK_DESCRIPTION">其攻擊力* 2.5 10％的攻擊力降低目標2抓斗</entry>
+<entry name="SLIME_AGILITY"></entry>
+<entry name="SLIME_HEAL"></entry>
+<entry name="VALKYRIA_SWORD_ATTACK_DESCRIPTION">ATK攻擊* 2.5，2 50％增加轉向ATK</entry>
+<entry name="BEHOLDER_ATTACK_ORDER_DESCRIPTION">全巴把一個盟友</entry>
+<entry name="VALKYRIA_VALHALLA_FIRE"></entry>
+<entry name="BIRD_ATTACK_FAST"></entry>
+<entry name="GOLEM_EXECUTE_DESCRIPTION">因為所有的敵人，持續2回合</entry>
+<entry name="SLIME_ELASTIC_ATTACK"></entry>
+<entry name="SLIME_DARK_ATTACK_DESCRIPTION">* 2.5抓斗與ATK，50％的機率重置桿轉動敵人</entry>
+<entry name="VALKYRIA_TACTIC"></entry>
+<entry name="VALKYRIA_INSURRECTION_DESCRIPTION">ATK攻擊* 2的可能性，以增加你的遠征25％
+2轉移同盟</entry>
+<entry name="BIRD_SPARKS_DESCRIPTION">* 3 ATK攻擊用的主要目標，試圖應用的10％的連續損傷2匝50％的可能性</entry>
+<entry name="VALKYRIA_TACTIC_DESCRIPTION">ATK攻擊* 2.5，後攻的25％可能性</entry>
+<entry name="VALKYRIA_COMMANDER"></entry>
+<entry name="VALKYRIA_INTIMIDATION"></entry>
+<entry name="BIRD_CLEAN_ALL"></entry>
+<entry name="BEHOLDER_HP_HIT"></entry>
+<entry name="VALKYRIA_HEAL_DESCRIPTION">治愈最大HP每一個盟友的25％</entry>
+<entry name="SLIME_HEAL_DESCRIPTION">治愈盟友其最大生命的15％</entry>
+<entry name="BEHOLDER_REVIVE"></entry>
+<entry name="BEHOLDER_LOW_HIT"></entry>
+<entry name="BIRD_TORNADO_DESCRIPTION">ATK * 2.5抓斗與敵人，有50％的機率重複第三次攻擊，25％的重複</entry>
+<entry name="BIRD_INMORTAL"></entry>
+<entry name="BIRD_ATTACK_DESCRIPTION">ATK攻擊* 2</entry>
+<entry name="BIRD_ATTACK"></entry>
+<entry name="VALKYRIA_INMORTAL_DESCRIPTION">恢復你的最大HP的30％</entry>
+<entry name="GOLEM_NO_MERCY_DESCRIPTION">損壞的所有敵人攻擊力* 2，然後自動
+GOLEM_ATTACK拋出對敵用更少的HP</entry>
+</entries>

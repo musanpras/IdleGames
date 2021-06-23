@@ -1,0 +1,87 @@
+<entries>
+<entry name="BAKERY_RESEARCH_DESCRIPTION">將麵包房員工的生產力提升 5%。</entry>
+<entry name="MANAGER_JEWEL">珠寶專區經理</entry>
+<entry name="MANAGER_FASHION">服飾專區經理</entry>
+<entry name="ELECTRONICS_RESEARCH">電子職員的薪酬</entry>
+<entry name="CARS_RESEARCH_DESCRIPTION">將汽車專賣行的工作速度增加 5%。</entry>
+<entry name="FRAGANCE_RESEARCH">製香師的薪酬</entry>
+<entry name="MANAGER_ELECTRONIC">電子設備專區經理</entry>
+<entry name="MAX_VIDEO_POWER_UP_DESC">將廣告宣傳的最長時間增加 {0} 分鐘。</entry>
+<entry name="FRUIT_RESEARCH">菜販的薪酬</entry>
+<entry name="MANAGER_BUTCHERY">肉舖經理</entry>
+<entry name="CLOTHING_RESEARCH">裁縫的薪酬</entry>
+<entry name="ELECTRONICS_RESEARCH_MISSING_BUILDING">你需要 1 個電子設備專區。</entry>
+<entry name="PROVIDER_AGREEMENT">供應商協議</entry>
+<entry name="EVOLUTION_MULT_DESC">將城市收益倍數增加 +{0}%。</entry>
+<entry name="I+D_PERFUM">香水研發</entry>
+<entry name="I+D_BUTCHERY">肉類研發</entry>
+<entry name="MONEY_VAN_MULT_DESC">通過增加了送貨車利潤&lt;color=#40FF7C&gt;{0}%&lt;/color&gt;</entry>
+<entry name="I+D_CARS">汽車專賣行研發</entry>
+<entry name="GENERAL_MANAGER_DESC">將你沒有在玩遊戲時的生產時間增加 10 個小時。</entry>
+<entry name="I+D_FISH">魚類研發</entry>
+<entry name="GENERAL_MANAGER_WIDGET">&lt;size=40&gt;沒有在玩遊戲時&lt;/size&gt; 10 個小時的收益。</entry>
+<entry name="JEWEL_RESEARCH">珠寶匠的薪酬</entry>
+<entry name="CARS_RESEARCH_MISSING_BUILDING">您需要汽車專賣行。</entry>
+<entry name="JEWEL_RESEARCH_DESCRIPTION">將珠寶專區員工的生產力提升 5%。</entry>
+<entry name="PARKING_RESEARCH_DESCRIPTION">每分鐘將前往超市的客戶人數增加 2 人。</entry>
+<entry name="VIP_REWARD_BONUS_MULT_DESC">將從貴賓顧客處獲取更大獎勵的概率增加 +{0}%。</entry>
+<entry name="MEAT_RESEARCH_MISSING_BUILDING">你需要 1 個肉類專區。</entry>
+<entry name="SHOP_COST_MULT_DESC">{1} 的改善成本降低 {0}%。</entry>
+<entry name="COMPULSIVE_CLIENTS">欲罷不能的顧客</entry>
+<entry name="MANAGER_CARS">汽車專賣行經理</entry>
+<entry name="I+D_SMARTPHONE">手機研發</entry>
+<entry name="I+D_FRUIT">農產品研發</entry>
+<entry name="HOUSE_RESEARCH_MISSING_BUILDING">您需要房地產中介。</entry>
+<entry name="GENERAL_MANAGER">總經理</entry>
+<entry name="FAMILY_MARKETING">家庭行銷</entry>
+<entry name="MEAT_RESEARCH_DESCRIPTION">將肉舖員工的生產力提升 5%。</entry>
+<entry name="MANAGER_FRUIT">農產品經理</entry>
+<entry name="MONEY_VAN_MULT">快速傳送</entry>
+<entry name="CASHIER_COST_MULT_DESC">出納員的成本降低 {0}%。</entry>
+<entry name="FAMILY_MULT_DESC">多人共乘一輛車的概率增加 {0}%。</entry>
+<entry name="HOUSE_RESEARCH">房地產中介的薪水</entry>
+<entry name="CARS_RESEARCH">汽車專賣行的薪水</entry>
+<entry name="SMARTPHONE_RESEARCH">極客的薪酬</entry>
+<entry name="PARKING_RESEARCH">廣告</entry>
+<entry name="MANAGER_PERFUM">香水專區經理</entry>
+<entry name="MEAT_RESEARCH">屠夫的薪酬</entry>
+<entry name="PARKING_RESEARCH_MISSING_BUILDING">你需要 1 個停車場。</entry>
+<entry name="CASHIER_SPEED_MULT_DESC">出納員接待顧客的速度增加 {0}%。</entry>
+<entry name="CLIENTS_SPEED_DESC">顧客流動速度增加 {0}%。</entry>
+<entry name="SMARTPHONE_RESEARCH_MISSING_BUILDING">你需要 1 個電訊專區。</entry>
+<entry name="FRUIT_RESEARCH_MISSING_BUILDING">你需要 1 個農產品專區。</entry>
+<entry name="ROBOTIC_ASSISTANCE">機器人協助</entry>
+<entry name="PRIME_TIME">高峰時間</entry>
+<entry name="SHOP_SPEED_MULT_DESC">{1} 的生產力增加 {0}%。</entry>
+<entry name="MANAGER_HOUSE">房地產中介經理</entry>
+<entry name="FRUIT_RESEARCH_DESCRIPTION">將農產品專區員工的生產力提升 5%。</entry>
+<entry name="MANAGER_SMARTPHONE">電訊專區經理</entry>
+<entry name="PARKING_BONUS_FORMAT">{0}/分鐘</entry>
+<entry name="MANAGER_FISH">海鮮專區經理</entry>
+<entry name="QUALITY_SEAL">品質保證</entry>
+<entry name="LABOUR_SUBSIDY">勞動補貼</entry>
+<entry name="GENERIC_BONUS_FORMAT">+{0:P0}</entry>
+<entry name="I+D_FASHION">服飾研發</entry>
+<entry name="I+D_HOUSE">房地產研發</entry>
+<entry name="CLOTHING_RESEARCH_DESCRIPTION">將服飾專區員工的生產力提升 5%。</entry>
+<entry name="JEWEL_RESEARCH_MISSING_BUILDING">你需要 1 個珠寶專區。</entry>
+<entry name="BAKERY_RESEARCH_MISSING_BUILDING">你需要 1 個麵包房。</entry>
+<entry name="I+D_JEWEL">珠寶研發</entry>
+<entry name="I+D_BAKERY">麵包研發</entry>
+<entry name="MANAGER_BAKERY">麵包房經理</entry>
+<entry name="I+D_ELECTRONIC">電子設備研發</entry>
+<entry name="CLOTHING_RESEARCH_MISSING_BUILDING">你需要 1 個服飾專區。</entry>
+<entry name="BAKERY_RESEARCH">烘焙師的薪酬</entry>
+<entry name="HOUSE_RESEARCH_DESCRIPTION">將房地產中介的工作速度增加 5%。</entry>
+<entry name="FRAGANCE_RESEARCH_MISSING_BUILDING">你需要 1 個香水專區。</entry>
+<entry name="FISH_RESEARCH">魚販的薪酬</entry>
+<entry name="FRAGANCE_RESEARCH_DESCRIPTION">將香水專區員工的生產力提升 5%。</entry>
+<entry name="ELECTRONICS_RESEARCH_DESCRIPTION">將電子設備專區員工的生產力提升 5%。</entry>
+<entry name="FISH_RESEARCH_MISSING_BUILDING">你需要 1 個海鮮專區。</entry>
+<entry name="QUALITY_SEAL_DESC">將利潤增加 2 倍。</entry>
+<entry name="TAX_REDUCTIONS">減稅</entry>
+<entry name="SMARTPHONE_RESEARCH_DESCRIPTION">將電訊專區員工的生產力提升 5%。</entry>
+<entry name="FISH_RESEARCH_DESCRIPTION">將海鮮專區員工的生產力提升 5%。</entry>
+<entry name="SALARY_COST_MULT_DESC">薪酬成本降低 {0}%。</entry>
+<entry name="MARKETING_VIP">貴賓行銷</entry>
+</entries>

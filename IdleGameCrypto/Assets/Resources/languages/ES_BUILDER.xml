@@ -1,0 +1,37 @@
+<entries>
+<entry name="BU_DIFFICULTY_HARD">DIFÍCIL</entry>
+<entry name="BU_MAPMENU_TITLE">EL DESTINO DEL HÉROE</entry>
+<entry name="BU_CRAFT_EVOLVE_BUTTON">EVOLUCIONAR</entry>
+<entry name="BU_MAPMENU_SEARCH">BÚSQUEDA DE TECNOLOGÍA</entry>
+<entry name="BU_LIGHT_PORTRAIT_LEVEL">NIVEL {0} / {1}</entry>
+<entry name="BU_CRAFT_CRAFT_TITLE">CRAFT {0}</entry>
+<entry name="BU_BUTTON_FUNCTION_MAP">MAPA</entry>
+<entry name="BU_CHAPTERMENU_TITLE">EL DESTINO DEL HÉROE</entry>
+<entry name="BU_BUTTON_FUNCTION_SALE">OFERTA</entry>
+<entry name="BU_BUTTON_FUNCTION_INBOX">Buzón</entry>
+<entry name="BU_BUTTON_FUNCTION_HEROES">HEROES</entry>
+<entry name="BU_BUTTON_FUNCTION_PLAY">JUGAR</entry>
+<entry name="BU_CHAPTERMENU_LEVEL">NIVEL</entry>
+<entry name="BU_CHAPTERMENU_ENEMIES">ENEMIGOS POSIBLES</entry>
+<entry name="BU_RESOURCE_ENERGY">ENERGÍA</entry>
+<entry name="BU_BUTTON_FUNCTION_MISSIONS">Misiones</entry>
+<entry name="BU_ARENAMENU_HISTORY">HISTÓRICO</entry>
+<entry name="BU_BUTTON_FUNCTION_BUILD">CONSTRUIR</entry>
+<entry name="BU_ARENAMENU_RANKINGS">RANKING</entry>
+<entry name="BU_DIFFICULTY_EASY">FÁCIL</entry>
+<entry name="BU_CHAPTERMENU_REWARDS">RECOMPENSAS</entry>
+<entry name="BU_CRAFT_IMPROVE_TITLE">MEJORAR {0}</entry>
+<entry name="BU_ARENAMENU_MATCHES">PARTIDAS</entry>
+<entry name="BU_MAPMENU_CAMPAING">MODO CAMPAÑA</entry>
+<entry name="BU_DIFFICULTY_NORMAL">NORMAL</entry>
+<entry name="BU_CHARACTERS_TITLE">PERSONAJES</entry>
+<entry name="BU_BUTTON_FUNCTION_NONE">FUNCTION NONE</entry>
+<entry name="BU_ARENAMENU_SEASON">TEMPORADA</entry>
+<entry name="BU_MAPMENU_EVENTS">EVENTOS MUNDIALES</entry>
+<entry name="BU_ONECHAR_MENU_TITLE_STATS">STATS</entry>
+<entry name="BU_SKILL_LEVEL">LV {0}</entry>
+<entry name="BU_GET_MORE_BUTTON">Conseguir Más</entry>
+<entry name="BU_BUTTON_FUNCTION_SHOP">TIENDA</entry>
+<entry name="BU_ONECHAR_MENU_TITLE_SKILLS">HABILIDADES</entry>
+<entry name="BU_MAPMENU_CHAPTER">CAPÍTULO</entry>
+</entries>

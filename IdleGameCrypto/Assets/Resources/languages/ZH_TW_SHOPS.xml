@@ -1,0 +1,75 @@
+<entries>
+<entry name="HOUSE_DESCRIPTION">顧客可以買到夢寐以求的房屋：可以是住宅、公寓、府邸，甚至城堡！</entry>
+<entry name="FRAGANCE">香水專區</entry>
+<entry name="ELECTRONICS_DESCRIPTION">每個人都深愛技術！讓你的顧客樂意花錢購買最新的裝置……</entry>
+<entry name="SMARTPHONE_UNLOCKS">手機店解鎖</entry>
+<entry name="JEWEL_UPGRADE">升級珠寶專區</entry>
+<entry name="CLOTHING">服飾專區</entry>
+<entry name="FRAGANCE_UPGRADE">升級香水專區</entry>
+<entry name="BAKERY_UPGRADE">升級麵包房</entry>
+<entry name="CLOTHING_MISSING_PREVIOUS_SHOP">你需要建造以前的商店。</entry>
+<entry name="CARS">汽車專賣行</entry>
+<entry name="FRUIT_UPGRADE">升級農產品專區</entry>
+<entry name="SUPERMARKET">超市</entry>
+<entry name="FISH_UPGRADE_DESCRIPTION">增加海鮮專區利潤。</entry>
+<entry name="SMARTPHONE_UPGRADE_DESCRIPTION">增加電訊專區利潤。</entry>
+<entry name="HOUSE_UPGRADE_DESCRIPTION">增加房地產中介利潤</entry>
+<entry name="CLOTHING_UNLOCKS">服裝店解鎖</entry>
+<entry name="CARS_UPGRADE">升級汽車專賣行</entry>
+<entry name="HOUSE_UPGRADE">升級房地產中介</entry>
+<entry name="MEAT_UPGRADE">升級肉舖</entry>
+<entry name="FRAGANCE_UNLOCKS">香水解鎖</entry>
+<entry name="FRAGANCE_UPGRADE_DESCRIPTION">增加香水專區利潤。</entry>
+<entry name="FISH_DESCRIPTION">品類繁雜的新鮮魚類，捕自海洋、湖泊甚至河流。</entry>
+<entry name="FRUIT_DESCRIPTION">為你的顧客提供健康的選擇，即那些對良好飲食非常重要的選擇。</entry>
+<entry name="FRUIT">農產品專區</entry>
+<entry name="BAKERY_UPGRADE_DESCRIPTION">增強麵包房利潤。</entry>
+<entry name="CARS_UPGRADE_DESCRIPTION">增加汽車專賣行利潤</entry>
+<entry name="EVOLUTION">研發</entry>
+<entry name="JEWEL_MISSING_PREVIOUS_SHOP">你需要建造以前的商店。</entry>
+<entry name="FISH_UNLOCKS">魚販解鎖</entry>
+<entry name="MEAT_MISSING_PREVIOUS_SHOP">你需要建造以前的商店。</entry>
+<entry name="PARKING_UNLOCKS">停車解鎖</entry>
+<entry name="HOUSE_UNLOCKS">房地產解鎖</entry>
+<entry name="SMARTPHONE_UPGRADE">升級電訊專區</entry>
+<entry name="CLOTHING_DESCRIPTION">隨心所欲地打扮自己，讓全世界效仿你的風格！</entry>
+<entry name="CARS_DESCRIPTION">為各類顧客提供品類齊全的車輛。跑車的銷量可觀。</entry>
+<entry name="FISH_MISSING_PREVIOUS_SHOP">你需要建造以前的商店。</entry>
+<entry name="BAKERY">麵包房</entry>
+<entry name="PARKING_UPGRADE">升級停車場</entry>
+<entry name="FISH_UPGRADE">升級海鮮專區</entry>
+<entry name="FRAGANCE_MISSING_PREVIOUS_SHOP">你需要建造以前的商店。</entry>
+<entry name="FRAGANCE_DESCRIPTION">為顧客提供各種香水：柑橘、花卉，甚至是最精緻的精華。</entry>
+<entry name="MEAT_DESCRIPTION">來自世界各地的鮮嫩瘦肉！香腸，甚至異域食品。</entry>
+<entry name="BAKERY_UNLOCKS">麵包店解鎖</entry>
+<entry name="BAKERY_DESCRIPTION">麵包與甜品……大家都喜歡！有了這些，你的超市會欣欣向榮。</entry>
+<entry name="JEWEL_UNLOCKS">解鎖珠寶店</entry>
+<entry name="FRUIT_UNLOCKS">菜販解鎖</entry>
+<entry name="ELECTRONICS">電子設備專區</entry>
+<entry name="SMARTPHONE">電訊專區</entry>
+<entry name="SMARTPHONE_MISSING_PREVIOUS_SHOP">你需要建造以前的商店。</entry>
+<entry name="MEAT">肉舖</entry>
+<entry name="FRUIT_UPGRADE_DESCRIPTION">增加農產品專區利潤。</entry>
+<entry name="PARKING_UPGRADE_DESCRIPTION">增強停車場利潤。</entry>
+<entry name="HOUSE_MISSING_PREVIOUS_SHOP">你需要建造以前的商店。</entry>
+<entry name="JEWEL">珠寶專區</entry>
+<entry name="CARS_UNLOCKS">經銷商解鎖</entry>
+<entry name="FRUIT_MISSING_PREVIOUS_SHOP">你需要建造以前的商店。</entry>
+<entry name="CLOTHING_UPGRADE_DESCRIPTION">增加服飾專區利潤。</entry>
+<entry name="ELECTRONICS_UPGRADE">升級電子設備專區</entry>
+<entry name="HOUSE">地產中介</entry>
+<entry name="ELECTRONICS_UNLOCKS">解鎖電子商店</entry>
+<entry name="SMARTPHONE_DESCRIPTION">每次發佈新品，隊伍將排到數英里之外！人們就是喜歡升級自己的智慧型手機！</entry>
+<entry name="MEAT_UPGRADE_DESCRIPTION">增加肉舖利潤。</entry>
+<entry name="JEWEL_DESCRIPTION">為你的顧客提供別緻的物件，讓他們享受國王和王后的待遇，這樣他們才能在特殊的場合引人注目。</entry>
+<entry name="PARKING_DESCRIPTION">光臨超市的人數取決於停車場的大小。改善停車場可容納更多顧客。</entry>
+<entry name="FISH">海鮮專區</entry>
+<entry name="BAKERY_MISSING_PREVIOUS_SHOP">你需要建造以前的商店。</entry>
+<entry name="CARS_MISSING_PREVIOUS_SHOP">你需要建造以前的商店。</entry>
+<entry name="ELECTRONICS_UPGRADE_DESCRIPTION">增加電子設備專區利潤。</entry>
+<entry name="JEWEL_UPGRADE_DESCRIPTION">增加珠寶專區利潤。</entry>
+<entry name="ELECTRONICS_MISSING_PREVIOUS_SHOP">你需要建造以前的商店。</entry>
+<entry name="CLOTHING_UPGRADE">升級服飾專區</entry>
+<entry name="MEAT_UNLOCKS">屠宰解鎖</entry>
+<entry name="PARKING">停車場</entry>
+</entries>
